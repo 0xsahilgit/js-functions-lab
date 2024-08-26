@@ -269,7 +269,6 @@ Complete the exercise in the space below:
 function numArgs() {
     console.log(arguments.length);
   }
-  
 
 console.log('Exercise 12 Result:', numArgs(1, 2, 3, 4));
 
